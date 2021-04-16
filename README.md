@@ -6,10 +6,10 @@
 
 Alessandro Muniz
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/alessandro-muniz-caranha)
+Linkedin:  [br.linkedin.com/in/alessandro-muniz-caranha](http://br.linkedin.com/in/alessandro-muniz-caranha)
 
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/alemcar.dev)
+Instagram:  [instagram.com/alemcar.dev](https://instagram.com/alemcar.dev)
 
-Twitter:  [@eliezerzarpelao](https://twitter.com/alemcar.dev)
+Twitter:  [@Muniz_Caranha](https://twitter.com/alemcar.dev)
 
-Github:  [github.com/elizarp](https://github.com/Alessandro1979-itac)
+Github:  [github.com/alessandro](https://github.com/Alessandro1979-itac)
