@@ -1,0 +1,16 @@
+c:\Users\MUNIZ\Documents\www\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+c:\Users\MUNIZ\Documents\www\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+c:\Users\MUNIZ\Documents\www\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+c:\Users\MUNIZ\Documents\www\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+c:\Users\MUNIZ\Documents\www\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+c:\Users\MUNIZ\Documents\www\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+c:\Users\MUNIZ\Documents\www\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+c:\Users\MUNIZ\Documents\www\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+c:\Users\MUNIZ\Documents\www\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MUNIZ\Documents\www\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+c:\Users\MUNIZ\Documents\www\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+c:\Users\MUNIZ\Documents\www\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+c:\Users\MUNIZ\Documents\www\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+c:\Users\MUNIZ\Documents\www\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+c:\Users\MUNIZ\Documents\www\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+c:\Users\MUNIZ\Documents\www\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
